@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Languages</string>
+    <string name="info">This is an application developed for DIO\'s \"Android App Supporting Multiple Languages\" challenge</string>
+</resources>

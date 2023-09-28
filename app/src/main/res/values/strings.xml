@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">App Idiomas</string>
+    <string name="info">Esse é um aplicativo desenvolvido para o desafio \"App Android com Suporte a Vários Idiomas\" da DIO</string>
+</resources>
